@@ -1,0 +1,40 @@
+8
+
+dir
+201
+https://xswingx.googlecode.com/svn/trunk/xswingx/src
+https://xswingx.googlecode.com/svn
+
+
+
+2007-11-22T11:18:26.878262Z
+201
+petw2815
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+abaf64d8-c52d-0410-ab24-9d07384f4a97
+
+beaninfo
+dir
+
+demo
+dir
+
+java
+dir
+
+test
+dir
+
