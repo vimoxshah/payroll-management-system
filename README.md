@@ -15,7 +15,7 @@
 * Pay-slip generation
 * All type report generation( All employee information report, leave report, Deduction report, Incentives report).
 
-### Screensshots of the System
+### Screenshot of the System
 
 ![splash screen](splash.png)
 
