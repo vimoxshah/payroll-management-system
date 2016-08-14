@@ -29,9 +29,9 @@
 
 ![bonus](bonus.png)
 
-![deduction](deduction.png)
+![deduction](deductions.png)
 
-![incentives](incentives.png)
+![incentives](incetives.png)
 
 ![leave entry](leave_entry.png)
 
